@@ -12,8 +12,6 @@
     "lint": "eslint . --ext .ts",
     "lint:fix": "eslint . --ext .ts --fix",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\""
-    "start": "node server.js"
-
   },
   "engines": {
     "node": ">=22.1.0",
